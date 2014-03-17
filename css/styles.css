@@ -123,7 +123,6 @@ ul.inline {
   list-style: none;
   margin: 10px 0 0;
   padding: 0;
-  text-align: center;
 }
 ul.inline li {
   display: inline-block;
@@ -196,7 +195,7 @@ h6 {
 hr {
   border: none;
   border-top: 1px solid #dddddd;
-  margin: 4rem 0;
+  margin: 100px 0 30px;
 }
 
 .container {
@@ -461,7 +460,7 @@ th {
   }
   #map-legend {
     float: right;
-    top: -90px;
+    top: 0;
     width: 33.33333%;
   }
 
